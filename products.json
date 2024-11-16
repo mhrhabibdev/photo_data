@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 120,
+    "category": "Electronics",
+    "popularity": 85,
+    "image": "https://via.placeholder.com/150",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse",
+    "price": 45,
+    "category": "Electronics",
+    "popularity": 70,
+    "image": "https://via.placeholder.com/150",
+    "description": "Ergonomic gaming mouse with customizable DPI settings.",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "name": "Yoga Mat",
+    "price": 25,
+    "category": "Fitness",
+    "popularity": 90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Non-slip yoga mat for a comfortable workout.",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "price": 200,
+    "category": "Electronics",
+    "popularity": 95,
+    "image": "https://via.placeholder.com/150",
+    "description": "Feature-packed smartwatch with heart rate monitoring.",
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 75,
+    "category": "Electronics",
+    "popularity": 80,
+    "image": "https://via.placeholder.com/150",
+    "description": "Portable Bluetooth speaker with deep bass and clear sound.",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Treadmill",
+    "price": 800,
+    "category": "Fitness",
+    "popularity": 60,
+    "image": "https://via.placeholder.com/150",
+    "description": "Compact treadmill for home workouts.",
+    "rating": 4.1
+  },
+  {
+    "id": 7,
+    "name": "Sunglasses",
+    "price": 50,
+    "category": "Fashion",
+    "popularity": 75,
+    "image": "https://via.placeholder.com/150",
+    "description": "Stylish sunglasses with UV protection.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "price": 100,
+    "category": "Fitness",
+    "popularity": 88,
+    "image": "https://via.placeholder.com/150",
+    "description": "Lightweight running shoes for long-distance runs.",
+    "rating": 4.9
+  },
+  {
+    "id": 9,
+    "name": "Laptop Backpack",
+    "price": 60,
+    "category": "Accessories",
+    "popularity": 78,
+    "image": "https://via.placeholder.com/150",
+    "description": "Durable laptop backpack with multiple compartments.",
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "name": "Leather Wallet",
+    "price": 35,
+    "category": "Accessories",
+    "popularity": 82,
+    "image": "https://via.placeholder.com/150",
+    "description": "Genuine leather wallet with RFID blocking.",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "Action Camera",
+    "price": 300,
+    "category": "Electronics",
+    "popularity": 89,
+    "image": "https://via.placeholder.com/150",
+    "description": "Compact action camera with 4K recording capabilities.",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "name": "Dumbbells Set",
+    "price": 50,
+    "category": "Fitness",
+    "popularity": 92,
+    "image": "https://via.placeholder.com/150",
+    "description": "Adjustable dumbbell set for versatile workouts.",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "name": "Formal Watch",
+    "price": 150,
+    "category": "Fashion",
+    "popularity": 85,
+    "image": "https://via.placeholder.com/150",
+    "description": "Elegant formal watch with stainless steel strap.",
+    "rating": 4.8
+  },
+  {
+    "id": 14,
+    "name": "Tablet",
+    "price": 250,
+    "category": "Electronics",
+    "popularity": 90,
+    "image": "https://via.placeholder.com/150",
+    "description": "10-inch tablet with high-resolution display.",
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "name": "Wireless Charger",
+    "price": 40,
+    "category": "Electronics",
+    "popularity": 83,
+    "image": "https://via.placeholder.com/150",
+    "description": "Fast wireless charger compatible with all devices.",
+    "rating": 4.2
+  },
+  {
+    "id": 16,
+    "name": "Winter Jacket",
+    "price": 120,
+    "category": "Fashion",
+    "popularity": 76,
+    "image": "https://via.placeholder.com/150",
+    "description": "Warm winter jacket for extreme cold conditions.",
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "name": "Cooking Pan Set",
+    "price": 80,
+    "category": "Home",
+    "popularity": 87,
+    "image": "https://via.placeholder.com/150",
+    "description": "Non-stick cooking pan set for easy cooking.",
+    "rating": 4.5
+  },
+  {
+    "id": 18,
+    "name": "Electric Kettle",
+    "price": 30,
+    "category": "Home",
+    "popularity": 79,
+    "image": "https://via.placeholder.com/150",
+    "description": "Fast-boil electric kettle with automatic shut-off.",
+    "rating": 4.3
+  },
+  {
+    "id": 19,
+    "name": "Office Chair",
+    "price": 220,
+    "category": "Furniture",
+    "popularity": 88,
+    "image": "https://via.placeholder.com/150",
+    "description": "Ergonomic office chair with lumbar support.",
+    "rating": 4.7
+  },
+  {
+    "id": 20,
+    "name": "Bookshelf",
+    "price": 150,
+    "category": "Furniture",
+    "popularity": 74,
+    "image": "https://via.placeholder.com/150",
+    "description": "Wooden bookshelf with modern design.",
+    "rating": 4.4
+  }
+]
